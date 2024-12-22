@@ -1,0 +1,7 @@
+C:\Users\Vera\source\repos\3 lab\3 laba\bin\Debug\3 laba.exe.config
+C:\Users\Vera\source\repos\3 lab\3 laba\bin\Debug\3 laba.exe
+C:\Users\Vera\source\repos\3 lab\3 laba\bin\Debug\3 laba.pdb
+C:\Users\Vera\source\repos\3 lab\3 laba\obj\Debug\3 laba.csproj.AssemblyReference.cache
+C:\Users\Vera\source\repos\3 lab\3 laba\obj\Debug\3 laba.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\3 lab\3 laba\obj\Debug\3 laba.exe
+C:\Users\Vera\source\repos\3 lab\3 laba\obj\Debug\3 laba.pdb
